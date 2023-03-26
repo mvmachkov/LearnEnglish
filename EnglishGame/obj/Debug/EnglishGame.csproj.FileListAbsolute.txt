@@ -9,3 +9,14 @@ C:\Users\Milen Machkov\OneDrive\Работен плот\OOP Principes-REPO\Schoo
 C:\Users\Milen Machkov\OneDrive\Работен плот\OOP Principes-REPO\School\EnglishGame\EnglishGame\obj\Debug\EnglishGame.exe
 C:\Users\Milen Machkov\OneDrive\Работен плот\OOP Principes-REPO\School\EnglishGame\EnglishGame\obj\Debug\EnglishGame.pdb
 C:\Users\Milen Machkov\OneDrive\Работен плот\OOP Principes-REPO\School\EnglishGame\EnglishGame\obj\Debug\EnglishGame.LearnEnglish.resources
+C:\Users\mvmac\Source\Repos\LearnEnglish\EnglishGame\bin\Debug\EnglishGame.exe.config
+C:\Users\mvmac\Source\Repos\LearnEnglish\EnglishGame\bin\Debug\EnglishGame.exe
+C:\Users\mvmac\Source\Repos\LearnEnglish\EnglishGame\bin\Debug\EnglishGame.pdb
+C:\Users\mvmac\Source\Repos\LearnEnglish\EnglishGame\obj\Debug\EnglishGame.csproj.AssemblyReference.cache
+C:\Users\mvmac\Source\Repos\LearnEnglish\EnglishGame\obj\Debug\EnglishGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\mvmac\Source\Repos\LearnEnglish\EnglishGame\obj\Debug\EnglishGame.LearnEnglish.resources
+C:\Users\mvmac\Source\Repos\LearnEnglish\EnglishGame\obj\Debug\EnglishGame.Properties.Resources.resources
+C:\Users\mvmac\Source\Repos\LearnEnglish\EnglishGame\obj\Debug\EnglishGame.csproj.GenerateResource.cache
+C:\Users\mvmac\Source\Repos\LearnEnglish\EnglishGame\obj\Debug\EnglishGame.csproj.CoreCompileInputs.cache
+C:\Users\mvmac\Source\Repos\LearnEnglish\EnglishGame\obj\Debug\EnglishGame.exe
+C:\Users\mvmac\Source\Repos\LearnEnglish\EnglishGame\obj\Debug\EnglishGame.pdb

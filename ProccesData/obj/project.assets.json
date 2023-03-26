@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Milen Machkov\\.nuget\\packages\\": {}
+    "C:\\Users\\mvmac\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Milen Machkov\\OneDrive\\Работен плот\\OOP Principes-REPO\\School\\EnglishGame\\ProccesData\\ProccesData.csproj",
+      "projectUniqueName": "C:\\Users\\mvmac\\Source\\Repos\\LearnEnglish\\ProccesData\\ProccesData.csproj",
       "projectName": "ProccesData",
-      "projectPath": "C:\\Users\\Milen Machkov\\OneDrive\\Работен плот\\OOP Principes-REPO\\School\\EnglishGame\\ProccesData\\ProccesData.csproj",
-      "packagesPath": "C:\\Users\\Milen Machkov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Milen Machkov\\OneDrive\\Работен плот\\OOP Principes-REPO\\School\\EnglishGame\\ProccesData\\obj\\",
+      "projectPath": "C:\\Users\\mvmac\\Source\\Repos\\LearnEnglish\\ProccesData\\ProccesData.csproj",
+      "packagesPath": "C:\\Users\\mvmac\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mvmac\\Source\\Repos\\LearnEnglish\\ProccesData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Milen Machkov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mvmac\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

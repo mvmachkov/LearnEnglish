@@ -436,5 +436,5 @@ riot=бунт,
 innoccent=невинен,
 yield=добив,
 desperation=отчаяние,
-utility=полезност,полза,удобство
+utility=полезност,
 satisfactory=задоволителен,
